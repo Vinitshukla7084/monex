@@ -1,6 +1,6 @@
 import firebase from 'firebase';
 
-const firebaseConfig = {
+const config = {
   apiKey: "AIzaSyAFT24wfdGWSw0YJ4vQBvlm6QbhEqp7yXg",
   authDomain: "monex-c7333.firebaseapp.com",
   projectId: "monex-c7333",
