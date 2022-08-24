@@ -1,12 +1,12 @@
 import firebase from 'firebase';
 
 const config = {
-  apiKey: "AIzaSyAFT24wfdGWSw0YJ4vQBvlm6QbhEqp7yXg",
-  authDomain: "monex-c7333.firebaseapp.com",
-  projectId: "monex-c7333",
-  storageBucket: "monex-c7333.appspot.com",
-  messagingSenderId: "172874523308",
-  appId: "1:172874523308:web:3712c6fb3f6f2232ae7509"
+  apiKey: "AIzaSyAXj_qWTiSDg7PdQNzaNp7Di07-2weixZs",
+  authDomain: "monex-2-9c6cb.firebaseapp.com",
+  projectId: "monex-2-9c6cb",
+  storageBucket: "monex-2-9c6cb.appspot.com",
+  messagingSenderId: "800546295245",
+  appId: "1:800546295245:web:00a5fa6f5ea3db7fce8884"
 };
 
 const fire = firebase.initializeApp(config);
